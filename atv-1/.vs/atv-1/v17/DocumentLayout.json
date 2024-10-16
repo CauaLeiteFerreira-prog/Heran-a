@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-Heran\u00E7a\\atv-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22D93F95-2C38-46E6-87D7-02E5DE5205D0}|..\\atv-3\\atv-3\\atv-3.csproj|c:\\users\\cau\u00E3 leite\\desktop\\backend\\exercicios-heran\u00E7a\\atv-3\\atv-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CB7CE-E4B5-498C-9F7E-80AED365E70B}|atv-1\\atv-1.csproj|c:\\users\\cau\u00E3 leite\\desktop\\backend\\exercicios-heran\u00E7a\\atv-1\\atv-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CB7CE-E4B5-498C-9F7E-80AED365E70B}|atv-1\\atv-1.csproj|solutionrelative:atv-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CB7CE-E4B5-498C-9F7E-80AED365E70B}|atv-1\\atv-1.csproj|c:\\users\\cau\u00E3 leite\\desktop\\backend\\exercicios-heran\u00E7a\\atv-1\\atv-1\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CB7CE-E4B5-498C-9F7E-80AED365E70B}|atv-1\\atv-1.csproj|solutionrelative:atv-1\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-Heran\u00E7a\\atv-3\\atv-3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\atv-3\\atv-3\\Program.cs",
+              "ToolTip": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-Heran\u00E7a\\atv-3\\atv-3\\Program.cs",
+              "RelativeToolTip": "..\\atv-3\\atv-3\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwCgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:51:33.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-Heran\u00E7a\\atv-1\\atv-1\\Pessoa.cs",
+              "RelativeDocumentMoniker": "atv-1\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-Heran\u00E7a\\atv-1\\atv-1\\Pessoa.cs",
+              "RelativeToolTip": "atv-1\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:06:32.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-Heran\u00E7a\\atv-1\\atv-1\\Program.cs",
+              "RelativeDocumentMoniker": "atv-1\\Program.cs",
+              "ToolTip": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-Heran\u00E7a\\atv-1\\atv-1\\Program.cs",
+              "RelativeToolTip": "atv-1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:22:35.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

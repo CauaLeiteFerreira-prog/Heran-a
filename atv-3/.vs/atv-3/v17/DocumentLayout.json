@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-Heran\u00E7a\\atv-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1302F89-A32A-470C-ABAD-FC0230552200}|atv-3\\atv-3.csproj|c:\\users\\cau\u00E3 leite\\desktop\\backend\\exercicios-heran\u00E7a\\atv-3\\atv-3\\contagenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1302F89-A32A-470C-ABAD-FC0230552200}|atv-3\\atv-3.csproj|solutionrelative:atv-3\\contagenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1302F89-A32A-470C-ABAD-FC0230552200}|atv-3\\atv-3.csproj|c:\\users\\cau\u00E3 leite\\desktop\\backend\\exercicios-heran\u00E7a\\atv-3\\atv-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1302F89-A32A-470C-ABAD-FC0230552200}|atv-3\\atv-3.csproj|solutionrelative:atv-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaGenerica.cs",
+              "DocumentMoniker": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-Heran\u00E7a\\atv-3\\atv-3\\ContaGenerica.cs",
+              "RelativeDocumentMoniker": "atv-3\\ContaGenerica.cs",
+              "ToolTip": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-Heran\u00E7a\\atv-3\\atv-3\\ContaGenerica.cs",
+              "RelativeToolTip": "atv-3\\ContaGenerica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:12:40.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-Heran\u00E7a\\atv-3\\atv-3\\Program.cs",
+              "RelativeDocumentMoniker": "atv-3\\Program.cs",
+              "ToolTip": "C:\\Users\\Cau\u00E3 Leite\\Desktop\\BackEnd\\exercicios-Heran\u00E7a\\atv-3\\atv-3\\Program.cs",
+              "RelativeToolTip": "atv-3\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:12:08.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

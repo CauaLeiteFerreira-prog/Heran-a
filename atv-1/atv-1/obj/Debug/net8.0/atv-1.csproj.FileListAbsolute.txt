@@ -1,0 +1,14 @@
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\obj\Debug\net8.0\atv-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\obj\Debug\net8.0\atv-1.AssemblyInfoInputs.cache
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\obj\Debug\net8.0\atv-1.AssemblyInfo.cs
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\obj\Debug\net8.0\atv-1.csproj.CoreCompileInputs.cache
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\bin\Debug\net8.0\atv-1.exe
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\bin\Debug\net8.0\atv-1.deps.json
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\bin\Debug\net8.0\atv-1.runtimeconfig.json
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\bin\Debug\net8.0\atv-1.dll
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\bin\Debug\net8.0\atv-1.pdb
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\obj\Debug\net8.0\atv-1.dll
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\obj\Debug\net8.0\refint\atv-1.dll
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\obj\Debug\net8.0\atv-1.pdb
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\obj\Debug\net8.0\atv-1.genruntimeconfig.cache
+C:\Users\Cauã Leite\Desktop\BackEnd\exercicios-Herança\atv-1\atv-1\obj\Debug\net8.0\ref\atv-1.dll
